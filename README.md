@@ -8,5 +8,6 @@
 # Идея 
 В старом телефоне небыло калткулятора решил сделать свой онлайн да и научиться работать с гит хаб.
 #Ссылки
-Калькулятор-https://dimach-28.github.io/calculator/
-Мои соц.сети-https://dimach-28.github.io
+Калькулятор-https://dimach28.github.io/calculator/
+Мои соц.сети-
+https://dimach-28.github.io
